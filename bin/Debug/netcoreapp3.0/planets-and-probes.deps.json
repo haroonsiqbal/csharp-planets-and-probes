@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "planets-and-probes/1.0.0": {
+        "runtime": {
+          "planets-and-probes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "planets-and-probes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

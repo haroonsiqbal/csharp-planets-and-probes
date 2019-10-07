@@ -1,0 +1,11 @@
+/Users/harooniqbal/workspace/csharp/exercises/planets-and-probes/bin/Debug/netcoreapp3.0/planets-and-probes
+/Users/harooniqbal/workspace/csharp/exercises/planets-and-probes/bin/Debug/netcoreapp3.0/planets-and-probes.deps.json
+/Users/harooniqbal/workspace/csharp/exercises/planets-and-probes/bin/Debug/netcoreapp3.0/planets-and-probes.runtimeconfig.json
+/Users/harooniqbal/workspace/csharp/exercises/planets-and-probes/bin/Debug/netcoreapp3.0/planets-and-probes.runtimeconfig.dev.json
+/Users/harooniqbal/workspace/csharp/exercises/planets-and-probes/bin/Debug/netcoreapp3.0/planets-and-probes.dll
+/Users/harooniqbal/workspace/csharp/exercises/planets-and-probes/bin/Debug/netcoreapp3.0/planets-and-probes.pdb
+/Users/harooniqbal/workspace/csharp/exercises/planets-and-probes/obj/Debug/netcoreapp3.0/planets-and-probes.csprojAssemblyReference.cache
+/Users/harooniqbal/workspace/csharp/exercises/planets-and-probes/obj/Debug/netcoreapp3.0/planets-and-probes.AssemblyInfoInputs.cache
+/Users/harooniqbal/workspace/csharp/exercises/planets-and-probes/obj/Debug/netcoreapp3.0/planets-and-probes.AssemblyInfo.cs
+/Users/harooniqbal/workspace/csharp/exercises/planets-and-probes/obj/Debug/netcoreapp3.0/planets-and-probes.dll
+/Users/harooniqbal/workspace/csharp/exercises/planets-and-probes/obj/Debug/netcoreapp3.0/planets-and-probes.pdb
